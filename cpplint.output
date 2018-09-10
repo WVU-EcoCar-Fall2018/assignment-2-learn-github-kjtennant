@@ -13,3 +13,11 @@ Done processing hellomake.h
 Total errors found: 8
 ubuntu@ubuntu:~/kurt/assignment-2-learn-github-kjtennant$ 
 
+
+take 2:
+ubuntu@ubuntu:~/kurt/assignment-2-learn-github-kjtennant$ cpplint hellofunc.c hellomake.c hellomake.h
+Done processing hellofunc.c
+Done processing hellomake.c
+Done processing hellomake.h
+ubuntu@ubuntu:~/kurt/assignment-2-learn-github-kjtennant$ 
+
