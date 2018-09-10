@@ -1,0 +1,15 @@
+ubuntu@ubuntu:~/kurt/assignment-2-learn-github-kjtennant$ cpplint hellofunc.c hellomake.c hellomake.h
+hellofunc.c:1:  Should have a space between // and comment  [whitespace/comments] [4]
+hellofunc.c:8:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+hellofunc.c:10:  Weird number of spaces at line-start.  Are you using a 2-space indent?  [whitespace/indent] [3]
+Done processing hellofunc.c
+hellomake.c:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+hellomake.c:3:  Extra space before ( in function call  [whitespace/parens] [4]
+hellomake.c:6:  Line ends in whitespace.  Consider deleting these extra spaces.  [whitespace/end_of_line] [4]
+Done processing hellomake.c
+hellomake.h:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+hellomake.h:0:  No #ifndef header guard found, suggested CPP variable is: ASSIGNMENT_2_LEARN_GITHUB_KJTENNANT_HELLOMAKE_H_  [build/header_guard] [5]
+Done processing hellomake.h
+Total errors found: 8
+ubuntu@ubuntu:~/kurt/assignment-2-learn-github-kjtennant$ 
+
