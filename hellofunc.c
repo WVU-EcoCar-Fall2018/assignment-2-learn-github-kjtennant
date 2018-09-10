@@ -1,4 +1,4 @@
-//
+//Copyright 2018 Kurt Tennant
 #include <stdio.h>
 #include <hellomake.h>
 
