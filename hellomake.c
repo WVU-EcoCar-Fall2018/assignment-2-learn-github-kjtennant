@@ -1,8 +1,8 @@
+// "Copyright [2018] <Kurt Tennant>"
 #include <hellomake.h>
 
-int main () {
+int main() {
   // call a function in another file
-  myPrintHelloMake();
-  
+  myPrintHelloMake();  
   return(0);
 }
